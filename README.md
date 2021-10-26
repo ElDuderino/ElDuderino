@@ -14,6 +14,7 @@ Aretas Sensor Networks https://www2.aretas.ca
 
 * Main developer for Aretas IoT Software Platform
 * Firmware Developer for Aretas IoT Products
+* https://github.com/AretasSensorNetworks
 
 ## Work Interests
 
