@@ -1,6 +1,6 @@
 # ElDuderino
 
-I'm a *Product Focused* full stack developer. And when I say full stack, I mean from chip level to web services to analytics. 
+I perform R&D and product development of IoT software and cloud platform. I have a keen interest in AI applications for sensors. I develop the Aretas IoT cloud platform.
 
 ### Working With Daily:
 
