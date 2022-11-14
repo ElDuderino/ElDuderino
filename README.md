@@ -4,7 +4,8 @@ I perform R&D and product development of IoT software and cloud platform. I have
 
 ### Working With Daily:
 
-* Java (JAX-RS), Javascript, Python, HTML/CSS/SASS, C++ (hardware), GitHub
+* Fastai, numpy, pandas, sklearn
+* Java (JAX-RS), Javascript, Python, HTML/CSS/SASS, C, C++ (hardware), GitHub
 * Couch DB, Postgres, Redis, ZeroMQ, AWS
 * Eagle CAD, Atmega, RP2040, esp8266, esp32, LoRa, XBee, Sensors (of all kinds)
 
@@ -18,10 +19,10 @@ Aretas Sensor Networks https://www2.aretas.ca
 
 ## Work Interests
 
-* IoT Sensors, Firmware and Software
 * Machine Learning / AI
 * Probabilistic Anomaly Detection
-* Sensor Data Analytics 
+* Sensor Data Analytics
+* IoT Sensors, Firmware and Software 
 * Real Time Location Technologies 
 
 ## Personal Interests
