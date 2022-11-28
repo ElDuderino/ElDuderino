@@ -1,6 +1,6 @@
 # ElDuderino
 
-I perform R&D and product development of IoT software and cloud platform. I have a keen interest in AI applications for sensors. I develop the Aretas IoT cloud platform.
+I perform R&D and product development of AI Enabled IoT products and cloud platform. I have a keen interest in AI applications for sensors. 
 
 ### Working With Daily:
 
