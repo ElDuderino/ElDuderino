@@ -4,7 +4,7 @@ I perform R&D and product development of IoT software and cloud platform. I have
 
 ### Working With Daily:
 
-* Fastai, numpy, pandas, sklearn
+* PyTorch, numpy, pandas, sklearn
 * Java (JAX-RS), Javascript, Python, HTML/CSS/SASS, C, C++ (hardware), GitHub
 * Couch DB, Postgres, Redis, ZeroMQ, AWS
 * Eagle CAD, Atmega, RP2040, esp8266, esp32, LoRa, XBee, Sensors (of all kinds)
@@ -13,6 +13,7 @@ I perform R&D and product development of IoT software and cloud platform. I have
 
 Aretas Sensor Networks https://www2.aretas.ca
 
+* Odor Detection AIs and ML algorithms
 * Main developer for Aretas IoT Software Platform
 * Firmware Developer for Aretas IoT Products
 * https://github.com/AretasSensorNetworks
