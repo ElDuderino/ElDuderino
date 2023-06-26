@@ -4,7 +4,7 @@ I perform R&D and Productization of AI Enabled IoT products and cloud platform. 
 
 ### Working With Daily:
 
-* PyTorch, numpy, pandas, sklearn
+* TensorFlow, PyTorch, numpy, pandas, sklearn
 * Building 1D Multivariate CNN architectures (InceptionTime, RegNet)
 * Vision and Time Series Transformers
 * Java (JAX-RS), Javascript, Python, HTML/CSS/SASS, C, C++ (hardware), GitHub
