@@ -1,9 +1,11 @@
 # ElDuderino
 
+Lately, I have been focused on LLM/NLP applications
 I perform R&D and Productization of AI Enabled IoT products and cloud platform. I have a keen interest in AI applications for sensors
 
 ### Working With Daily:
 
+* NLP, Vector Database, LLM, llama2, RAG pipelines, fine-tuning
 * TensorFlow, PyTorch, numpy, pandas, sklearn
 * Building 1D Multivariate CNN architectures (InceptionTime, RegNet)
 * Vision and Time Series Transformers
@@ -16,13 +18,14 @@ I perform R&D and Productization of AI Enabled IoT products and cloud platform. 
 Aretas Sensor Networks https://www2.aretas.ca
 
 * Odor Detection AIs and ML algorithms
-* Contextualizing sensor data with AI
+* Contextualizing sensor data with AI (NLP, LLM, Classification)
 * Developing Aretas IoT Software Platform
 * Firmware Developer for Aretas IoT Products
 * https://github.com/AretasSensorNetworks
 
 ## Work Interests
 
+* Applying NLP / LLM tech to IoT
 * Machine Learning / AI
 * Probabilistic Anomaly Detection
 * Sensor Data Analytics
