@@ -1,6 +1,7 @@
 # ElDuderino
 
-Lately, I have been focused on LLM/NLP applications
+Lately, I have been focused on LLM/NLP applications (RAG / API augmented LLM).
+
 I perform R&D and Productization of AI Enabled IoT products and cloud platform. I have a keen interest in AI applications for sensors
 
 ### Working With Daily:
